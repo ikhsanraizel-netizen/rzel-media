@@ -1,0 +1,16 @@
+export const MENU = [
+  { slug: "dashboard", label: "Dashboard", tahap: 1 },
+  { slug: "ai-employees", label: "AI Employees", tahap: 2 },
+  { slug: "command-center", label: "Command Center", tahap: 3 },
+  { slug: "research-ideas", label: "Research & Ideas", tahap: 4 },
+  { slug: "script-studio", label: "Script Studio", tahap: 4 },
+  { slug: "storyboard", label: "Storyboard", tahap: 4 },
+  { slug: "visual-studio", label: "Visual Studio", tahap: 5 },
+  { slug: "video-production", label: "Video Production", tahap: 5 },
+  { slug: "content-library", label: "Content Library", tahap: 4 },
+  { slug: "publishing-center", label: "Publishing Center", tahap: 6 },
+  { slug: "analytics", label: "Analytics", tahap: 6 },
+  { slug: "finance-revenue", label: "Finance & Revenue", tahap: 7 },
+  { slug: "reports", label: "Reports", tahap: 7 },
+  { slug: "settings", label: "Settings", tahap: 7 },
+];
